@@ -33,6 +33,19 @@ function App() {
     "Call recording",
     "Incognito mode",
     "Send contact requests to people outside your network",
+    "30 contact requests per month"]
+  },
+  {
+    title:"Gold",
+    price:250,
+    feature:["See who viewed your profile",
+    "Get the Premium badge on your profile",
+    "Get priority customer support",
+    "View profiles privately",
+    "No ads",
+    "Call recording",
+    "Incognito mode",
+    "Send contact requests to people outside your network",
     "30 contact requests per month",
     "Gold Caller ID"]
   }
