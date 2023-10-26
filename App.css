@@ -1,0 +1,75 @@
+
+h1{
+  color: #3b70b5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.explain{
+  color: black;
+  font-size: large;
+  font-family: cursive;
+  display: flex;
+  align-items: center;
+}
+
+
+.price {
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; 
+  padding: 20px;
+  margin: 20px;
+} 
+
+.pricecard {
+  
+  border: 1px solid #171717;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px ;
+  gap: 1rem;
+  text-align: center;
+}
+
+.title {
+  color: #4006ad;
+  font-size: xx-large;
+}
+
+.cost {
+  color: #780c07;
+}
+.Usd{
+  color:#ef3c33;
+  font-size: xx-large;
+}
+.features {
+  list-style: none;
+  text-align: left;
+  padding: 0;
+  color: black;
+}
+.available {
+  opacity: 1; 
+}
+
+.unavailable {
+  opacity: 0.5; 
+}
+
+
+.buy {
+  background-color: #4caf50;
+  color: black;
+  font-size: x-large;
+  border-radius: 4px;
+  padding: 10px;
+  cursor: zoom-in;
+  font-size: 1rem;
+  margin: 15px;
+}
+
