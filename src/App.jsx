@@ -53,7 +53,7 @@ function App() {
 
   return (
    <div className="main">
-    <h1> Truecaller </h1>
+    <h1> Truecaller Premium Details </h1>
   
     <div className="container">
     <div className="price">
