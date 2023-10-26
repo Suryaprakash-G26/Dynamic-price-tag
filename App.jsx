@@ -54,16 +54,7 @@ function App() {
   return (
    <div className="main">
     <h1> Truecaller </h1>
-    <p className="explain">
-    Truecaller is a popular smartphone application that offers various feature to enhance the calling experience for users.
-    It provides caller identification, allowing users to identify incoming calls from unknown numbers by displaying the name or organization associated with the caller.
-    Truecaller also allows users to block unwanted calls from telemarketers, spammers, and other unwanted contacts, ensuring privacy and avoiding nuisance calls.
-    Additionally, it offers a flash messaging feature that enables users to send quick messages to their contacts even if they are unavailable for a call. 
-    Truecaller also provides a call recording feature, allowing users to record important conversations for future reference.
-    With its chat and voice calling feature, users can send messages, share media, and make voice calls using the internet connection. 
-    Truecaller is available for Android, iOS, and Windows Phone operating systems, making it accessible for a wide range of users. 
-    It has gained popularity for its ability to help users identify unknown callers and block unwanted calls, ultimately providing a more efficient and secure calling experience.
-    </p>
+  
     <div className="container">
     <div className="price">
       {info.map((inf,index)=>
